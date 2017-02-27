@@ -1,0 +1,409 @@
+{
+"RECORDS":[
+{
+"industry_id":"1",
+"language":"en",
+"name":"Conglomerates"
+},
+{
+"industry_id":"2",
+"language":"en",
+"name":"Investment Services"
+},
+{
+"industry_id":"3",
+"language":"en",
+"name":"Regional Banks"
+},
+{
+"industry_id":"4",
+"language":"en",
+"name":"Electric Utilities"
+},
+{
+"industry_id":"5",
+"language":"en",
+"name":"Diversified Insurance"
+},
+{
+"industry_id":"6",
+"language":"en",
+"name":"Construction Services"
+},
+{
+"industry_id":"7",
+"language":"en",
+"name":"Heavy Equipment"
+},
+{
+"industry_id":"8",
+"language":"en",
+"name":"Natural Gas Utilities"
+},
+{
+"industry_id":"9",
+"language":"en",
+"name":"Life & Health Insurance"
+},
+{
+"industry_id":"10",
+"language":"en",
+"name":"Major Banks"
+},
+{
+"industry_id":"12",
+"language":"en",
+"name":"Semiconductors"
+},
+{
+"industry_id":"13",
+"language":"en",
+"name":"Telecommunications services"
+},
+{
+"industry_id":"14",
+"language":"en",
+"name":"Computer Services"
+},
+{
+"industry_id":"15",
+"language":"en",
+"name":"Electronics"
+},
+{
+"industry_id":"16",
+"language":"en",
+"name":"Thrifts & Mortgage Finance"
+},
+{
+"industry_id":"17",
+"language":"en",
+"name":"Pharmaceuticals"
+},
+{
+"industry_id":"18",
+"language":"en",
+"name":"Other Transportation"
+},
+{
+"industry_id":"19",
+"language":"en",
+"name":"Hotels & Motels"
+},
+{
+"industry_id":"20",
+"language":"en",
+"name":"Recreational Products"
+},
+{
+"industry_id":"21",
+"language":"en",
+"name":"Trading Companies"
+},
+{
+"industry_id":"22",
+"language":"en",
+"name":"Business & Personal Services"
+},
+{
+"industry_id":"23",
+"language":"en",
+"name":"Apparel/Accessories"
+},
+{
+"industry_id":"24",
+"language":"en",
+"name":"Software & Programming"
+},
+{
+"industry_id":"25",
+"language":"en",
+"name":"Specialty Stores"
+},
+{
+"industry_id":"26",
+"language":"en",
+"name":"Food Retail"
+},
+{
+"industry_id":"27",
+"language":"en",
+"name":"Managed Health Care"
+},
+{
+"industry_id":"28",
+"language":"en",
+"name":"Real Estate"
+},
+{
+"industry_id":"29",
+"language":"en",
+"name":"Specialized Chemicals"
+},
+{
+"industry_id":"30",
+"language":"en",
+"name":"Airline"
+},
+{
+"industry_id":"31",
+"language":"en",
+"name":"Auto & Truck Parts"
+},
+{
+"industry_id":"32",
+"language":"en",
+"name":"Food Processing"
+},
+{
+"industry_id":"33",
+"language":"en",
+"name":"Diversified Chemicals"
+},
+{
+"industry_id":"34",
+"language":"en",
+"name":"Communications Equipment"
+},
+{
+"industry_id":"35",
+"language":"en",
+"name":"Aluminum"
+},
+{
+"industry_id":"36",
+"language":"en",
+"name":"Biotechs"
+},
+{
+"industry_id":"37",
+"language":"en",
+"name":"Other Industrial Equipment"
+},
+{
+"industry_id":"38",
+"language":"en",
+"name":"Property & Casualty Insurance"
+},
+{
+"industry_id":"39",
+"language":"en",
+"name":"Diversified Metals & Mining"
+},
+{
+"industry_id":"40",
+"language":"en",
+"name":"Tobacco"
+},
+{
+"industry_id":"41",
+"language":"en",
+"name":"Internet & Catalog Retail"
+},
+{
+"industry_id":"42",
+"language":"en",
+"name":"Containers & Packaging"
+},
+{
+"industry_id":"43",
+"language":"en",
+"name":"Consumer Financial Services"
+},
+{
+"industry_id":"44",
+"language":"en",
+"name":"Diversified Utilities"
+},
+{
+"industry_id":"45",
+"language":"en",
+"name":"Electrical Equipment"
+},
+{
+"industry_id":"46",
+"language":"en",
+"name":"Household/Personal Care"
+},
+{
+"industry_id":"47",
+"language":"en",
+"name":"Oil & Gas Operations"
+},
+{
+"industry_id":"48",
+"language":"en",
+"name":"Iron & Steel"
+},
+{
+"industry_id":"49",
+"language":"en",
+"name":"Beverages"
+},
+{
+"industry_id":"50",
+"language":"en",
+"name":"Construction Materials"
+},
+{
+"industry_id":"51",
+"language":"en",
+"name":"Insurance Brokers"
+},
+{
+"industry_id":"52",
+"language":"en",
+"name":"Computer Hardware"
+},
+{
+"industry_id":"53",
+"language":"en",
+"name":"Rental & Leasing"
+},
+{
+"industry_id":"54",
+"language":"en",
+"name":"Printing & Publishing"
+},
+{
+"industry_id":"55",
+"language":"en",
+"name":"Aerospace & Defense"
+},
+{
+"industry_id":"56",
+"language":"en",
+"name":"Auto & Truck Manufacturers"
+},
+{
+"industry_id":"57",
+"language":"en",
+"name":"Oil Services & Equipment"
+},
+{
+"industry_id":"58",
+"language":"en",
+"name":"Medical Equipment & Supplies"
+},
+{
+"industry_id":"59",
+"language":"en",
+"name":"Apparel/Footwear Retail"
+},
+{
+"industry_id":"60",
+"language":"en",
+"name":"Computer & Electronics Retail"
+},
+{
+"industry_id":"61",
+"language":"en",
+"name":"Broadcasting & Cable"
+},
+{
+"industry_id":"62",
+"language":"en",
+"name":"Business Products & Supplies"
+},
+{
+"industry_id":"63",
+"language":"en",
+"name":"Railroads"
+},
+{
+"industry_id":"64",
+"language":"en",
+"name":"Drug Retail"
+},
+{
+"industry_id":"65",
+"language":"en",
+"name":"Trucking"
+},
+{
+"industry_id":"66",
+"language":"en",
+"name":"Casinos & Gaming"
+},
+{
+"industry_id":"67",
+"language":"en",
+"name":"Healthcare Services"
+},
+{
+"industry_id":"68",
+"language":"en",
+"name":"Restaurants"
+},
+{
+"industry_id":"69",
+"language":"en",
+"name":"Discount Stores"
+},
+{
+"industry_id":"70",
+"language":"en",
+"name":"Advertising"
+},
+{
+"industry_id":"71",
+"language":"en",
+"name":"Air Courier"
+},
+{
+"industry_id":"72",
+"language":"en",
+"name":"Computer Storage Devices"
+},
+{
+"industry_id":"73",
+"language":"en",
+"name":"Department Stores"
+},
+{
+"industry_id":"74",
+"language":"en",
+"name":"Household Appliances"
+},
+{
+"industry_id":"75",
+"language":"en",
+"name":"Forest Products"
+},
+{
+"industry_id":"76",
+"language":"en",
+"name":"Home Improvement Retail"
+},
+{
+"industry_id":"77",
+"language":"en",
+"name":"Consumer Electronics"
+},
+{
+"industry_id":"78",
+"language":"en",
+"name":"Security Systems"
+},
+{
+"industry_id":"79",
+"language":"en",
+"name":"Paper & Paper Products"
+},
+{
+"industry_id":"80",
+"language":"en",
+"name":"Furniture & Fixtures"
+},
+{
+"industry_id":"81",
+"language":"en",
+"name":"Precision Healthcare Equipment"
+},
+{
+"industry_id":"82",
+"language":"en",
+"name":"Environmental & Waste"
+}
+]
+}

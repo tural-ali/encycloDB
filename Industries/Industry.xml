@@ -1,0 +1,408 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<industry_id>1</industry_id>
+	<language>en</language>
+	<name>Conglomerates</name>
+</RECORD>
+<RECORD>
+	<industry_id>2</industry_id>
+	<language>en</language>
+	<name>Investment Services</name>
+</RECORD>
+<RECORD>
+	<industry_id>3</industry_id>
+	<language>en</language>
+	<name>Regional Banks</name>
+</RECORD>
+<RECORD>
+	<industry_id>4</industry_id>
+	<language>en</language>
+	<name>Electric Utilities</name>
+</RECORD>
+<RECORD>
+	<industry_id>5</industry_id>
+	<language>en</language>
+	<name>Diversified Insurance</name>
+</RECORD>
+<RECORD>
+	<industry_id>6</industry_id>
+	<language>en</language>
+	<name>Construction Services</name>
+</RECORD>
+<RECORD>
+	<industry_id>7</industry_id>
+	<language>en</language>
+	<name>Heavy Equipment</name>
+</RECORD>
+<RECORD>
+	<industry_id>8</industry_id>
+	<language>en</language>
+	<name>Natural Gas Utilities</name>
+</RECORD>
+<RECORD>
+	<industry_id>9</industry_id>
+	<language>en</language>
+	<name>Life &amp; Health Insurance</name>
+</RECORD>
+<RECORD>
+	<industry_id>10</industry_id>
+	<language>en</language>
+	<name>Major Banks</name>
+</RECORD>
+<RECORD>
+	<industry_id>12</industry_id>
+	<language>en</language>
+	<name>Semiconductors</name>
+</RECORD>
+<RECORD>
+	<industry_id>13</industry_id>
+	<language>en</language>
+	<name>Telecommunications services</name>
+</RECORD>
+<RECORD>
+	<industry_id>14</industry_id>
+	<language>en</language>
+	<name>Computer Services</name>
+</RECORD>
+<RECORD>
+	<industry_id>15</industry_id>
+	<language>en</language>
+	<name>Electronics</name>
+</RECORD>
+<RECORD>
+	<industry_id>16</industry_id>
+	<language>en</language>
+	<name>Thrifts &amp; Mortgage Finance</name>
+</RECORD>
+<RECORD>
+	<industry_id>17</industry_id>
+	<language>en</language>
+	<name>Pharmaceuticals</name>
+</RECORD>
+<RECORD>
+	<industry_id>18</industry_id>
+	<language>en</language>
+	<name>Other Transportation</name>
+</RECORD>
+<RECORD>
+	<industry_id>19</industry_id>
+	<language>en</language>
+	<name>Hotels &amp; Motels</name>
+</RECORD>
+<RECORD>
+	<industry_id>20</industry_id>
+	<language>en</language>
+	<name>Recreational Products</name>
+</RECORD>
+<RECORD>
+	<industry_id>21</industry_id>
+	<language>en</language>
+	<name>Trading Companies</name>
+</RECORD>
+<RECORD>
+	<industry_id>22</industry_id>
+	<language>en</language>
+	<name>Business &amp; Personal Services</name>
+</RECORD>
+<RECORD>
+	<industry_id>23</industry_id>
+	<language>en</language>
+	<name>Apparel/Accessories</name>
+</RECORD>
+<RECORD>
+	<industry_id>24</industry_id>
+	<language>en</language>
+	<name>Software &amp; Programming</name>
+</RECORD>
+<RECORD>
+	<industry_id>25</industry_id>
+	<language>en</language>
+	<name>Specialty Stores</name>
+</RECORD>
+<RECORD>
+	<industry_id>26</industry_id>
+	<language>en</language>
+	<name>Food Retail</name>
+</RECORD>
+<RECORD>
+	<industry_id>27</industry_id>
+	<language>en</language>
+	<name>Managed Health Care</name>
+</RECORD>
+<RECORD>
+	<industry_id>28</industry_id>
+	<language>en</language>
+	<name>Real Estate</name>
+</RECORD>
+<RECORD>
+	<industry_id>29</industry_id>
+	<language>en</language>
+	<name>Specialized Chemicals</name>
+</RECORD>
+<RECORD>
+	<industry_id>30</industry_id>
+	<language>en</language>
+	<name>Airline</name>
+</RECORD>
+<RECORD>
+	<industry_id>31</industry_id>
+	<language>en</language>
+	<name>Auto &amp; Truck Parts</name>
+</RECORD>
+<RECORD>
+	<industry_id>32</industry_id>
+	<language>en</language>
+	<name>Food Processing</name>
+</RECORD>
+<RECORD>
+	<industry_id>33</industry_id>
+	<language>en</language>
+	<name>Diversified Chemicals</name>
+</RECORD>
+<RECORD>
+	<industry_id>34</industry_id>
+	<language>en</language>
+	<name>Communications Equipment</name>
+</RECORD>
+<RECORD>
+	<industry_id>35</industry_id>
+	<language>en</language>
+	<name>Aluminum</name>
+</RECORD>
+<RECORD>
+	<industry_id>36</industry_id>
+	<language>en</language>
+	<name>Biotechs</name>
+</RECORD>
+<RECORD>
+	<industry_id>37</industry_id>
+	<language>en</language>
+	<name>Other Industrial Equipment</name>
+</RECORD>
+<RECORD>
+	<industry_id>38</industry_id>
+	<language>en</language>
+	<name>Property &amp; Casualty Insurance</name>
+</RECORD>
+<RECORD>
+	<industry_id>39</industry_id>
+	<language>en</language>
+	<name>Diversified Metals &amp; Mining</name>
+</RECORD>
+<RECORD>
+	<industry_id>40</industry_id>
+	<language>en</language>
+	<name>Tobacco</name>
+</RECORD>
+<RECORD>
+	<industry_id>41</industry_id>
+	<language>en</language>
+	<name>Internet &amp; Catalog Retail</name>
+</RECORD>
+<RECORD>
+	<industry_id>42</industry_id>
+	<language>en</language>
+	<name>Containers &amp; Packaging</name>
+</RECORD>
+<RECORD>
+	<industry_id>43</industry_id>
+	<language>en</language>
+	<name>Consumer Financial Services</name>
+</RECORD>
+<RECORD>
+	<industry_id>44</industry_id>
+	<language>en</language>
+	<name>Diversified Utilities</name>
+</RECORD>
+<RECORD>
+	<industry_id>45</industry_id>
+	<language>en</language>
+	<name>Electrical Equipment</name>
+</RECORD>
+<RECORD>
+	<industry_id>46</industry_id>
+	<language>en</language>
+	<name>Household/Personal Care</name>
+</RECORD>
+<RECORD>
+	<industry_id>47</industry_id>
+	<language>en</language>
+	<name>Oil &amp; Gas Operations</name>
+</RECORD>
+<RECORD>
+	<industry_id>48</industry_id>
+	<language>en</language>
+	<name>Iron &amp; Steel</name>
+</RECORD>
+<RECORD>
+	<industry_id>49</industry_id>
+	<language>en</language>
+	<name>Beverages</name>
+</RECORD>
+<RECORD>
+	<industry_id>50</industry_id>
+	<language>en</language>
+	<name>Construction Materials</name>
+</RECORD>
+<RECORD>
+	<industry_id>51</industry_id>
+	<language>en</language>
+	<name>Insurance Brokers</name>
+</RECORD>
+<RECORD>
+	<industry_id>52</industry_id>
+	<language>en</language>
+	<name>Computer Hardware</name>
+</RECORD>
+<RECORD>
+	<industry_id>53</industry_id>
+	<language>en</language>
+	<name>Rental &amp; Leasing</name>
+</RECORD>
+<RECORD>
+	<industry_id>54</industry_id>
+	<language>en</language>
+	<name>Printing &amp; Publishing</name>
+</RECORD>
+<RECORD>
+	<industry_id>55</industry_id>
+	<language>en</language>
+	<name>Aerospace &amp; Defense</name>
+</RECORD>
+<RECORD>
+	<industry_id>56</industry_id>
+	<language>en</language>
+	<name>Auto &amp; Truck Manufacturers</name>
+</RECORD>
+<RECORD>
+	<industry_id>57</industry_id>
+	<language>en</language>
+	<name>Oil Services &amp; Equipment</name>
+</RECORD>
+<RECORD>
+	<industry_id>58</industry_id>
+	<language>en</language>
+	<name>Medical Equipment &amp; Supplies</name>
+</RECORD>
+<RECORD>
+	<industry_id>59</industry_id>
+	<language>en</language>
+	<name>Apparel/Footwear Retail</name>
+</RECORD>
+<RECORD>
+	<industry_id>60</industry_id>
+	<language>en</language>
+	<name>Computer &amp; Electronics Retail</name>
+</RECORD>
+<RECORD>
+	<industry_id>61</industry_id>
+	<language>en</language>
+	<name>Broadcasting &amp; Cable</name>
+</RECORD>
+<RECORD>
+	<industry_id>62</industry_id>
+	<language>en</language>
+	<name>Business Products &amp; Supplies</name>
+</RECORD>
+<RECORD>
+	<industry_id>63</industry_id>
+	<language>en</language>
+	<name>Railroads</name>
+</RECORD>
+<RECORD>
+	<industry_id>64</industry_id>
+	<language>en</language>
+	<name>Drug Retail</name>
+</RECORD>
+<RECORD>
+	<industry_id>65</industry_id>
+	<language>en</language>
+	<name>Trucking</name>
+</RECORD>
+<RECORD>
+	<industry_id>66</industry_id>
+	<language>en</language>
+	<name>Casinos &amp; Gaming</name>
+</RECORD>
+<RECORD>
+	<industry_id>67</industry_id>
+	<language>en</language>
+	<name>Healthcare Services</name>
+</RECORD>
+<RECORD>
+	<industry_id>68</industry_id>
+	<language>en</language>
+	<name>Restaurants</name>
+</RECORD>
+<RECORD>
+	<industry_id>69</industry_id>
+	<language>en</language>
+	<name>Discount Stores</name>
+</RECORD>
+<RECORD>
+	<industry_id>70</industry_id>
+	<language>en</language>
+	<name>Advertising</name>
+</RECORD>
+<RECORD>
+	<industry_id>71</industry_id>
+	<language>en</language>
+	<name>Air Courier</name>
+</RECORD>
+<RECORD>
+	<industry_id>72</industry_id>
+	<language>en</language>
+	<name>Computer Storage Devices</name>
+</RECORD>
+<RECORD>
+	<industry_id>73</industry_id>
+	<language>en</language>
+	<name>Department Stores</name>
+</RECORD>
+<RECORD>
+	<industry_id>74</industry_id>
+	<language>en</language>
+	<name>Household Appliances</name>
+</RECORD>
+<RECORD>
+	<industry_id>75</industry_id>
+	<language>en</language>
+	<name>Forest Products</name>
+</RECORD>
+<RECORD>
+	<industry_id>76</industry_id>
+	<language>en</language>
+	<name>Home Improvement Retail</name>
+</RECORD>
+<RECORD>
+	<industry_id>77</industry_id>
+	<language>en</language>
+	<name>Consumer Electronics</name>
+</RECORD>
+<RECORD>
+	<industry_id>78</industry_id>
+	<language>en</language>
+	<name>Security Systems</name>
+</RECORD>
+<RECORD>
+	<industry_id>79</industry_id>
+	<language>en</language>
+	<name>Paper &amp; Paper Products</name>
+</RECORD>
+<RECORD>
+	<industry_id>80</industry_id>
+	<language>en</language>
+	<name>Furniture &amp; Fixtures</name>
+</RECORD>
+<RECORD>
+	<industry_id>81</industry_id>
+	<language>en</language>
+	<name>Precision Healthcare Equipment</name>
+</RECORD>
+<RECORD>
+	<industry_id>82</industry_id>
+	<language>en</language>
+	<name>Environmental &amp; Waste</name>
+</RECORD>
+</RECORDS>
