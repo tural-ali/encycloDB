@@ -1,0 +1,81 @@
+{
+"RECORDS":[
+{
+"educationDegreeID":"1",
+"language":"en",
+"name":"High School",
+"shortName":"",
+"confirmed":"1"
+},
+{
+"educationDegreeID":"2",
+"language":"en",
+"name":"Associate’s Degree",
+"shortName":"",
+"confirmed":"1"
+},
+{
+"educationDegreeID":"3",
+"language":"en",
+"name":"Bachelor’s Degree",
+"shortName":"",
+"confirmed":"1"
+},
+{
+"educationDegreeID":"4",
+"language":"en",
+"name":"Master’s Degree",
+"shortName":"",
+"confirmed":"1"
+},
+{
+"educationDegreeID":"5",
+"language":"en",
+"name":"Master of Business Administration ",
+"shortName":"(M.B.A.)",
+"confirmed":"1"
+},
+{
+"educationDegreeID":"6",
+"language":"en",
+"name":"Juris Doctor ",
+"shortName":"(J.D.)",
+"confirmed":"1"
+},
+{
+"educationDegreeID":"7",
+"language":"en",
+"name":"Doctor of Medicine",
+"shortName":"(M.D.)",
+"confirmed":"1"
+},
+{
+"educationDegreeID":"8",
+"language":"en",
+"name":"Doctor of Philosophy",
+"shortName":"(Ph.D.)",
+"confirmed":"1"
+},
+{
+"educationDegreeID":"9",
+"language":"en",
+"name":"Engineer’s Degree",
+"shortName":"",
+"confirmed":"1"
+},
+{
+"educationDegreeID":"10",
+"language":"en",
+"name":"Other",
+"shortName":"",
+"confirmed":"1"
+},
+{
+"educationDegreeID":"16",
+"language":"en",
+"name":"College",
+"shortName":"",
+"confirmed":"0"
+}
+]
+}

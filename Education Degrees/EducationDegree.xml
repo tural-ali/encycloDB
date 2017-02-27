@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<education_degree_id>1</education_degree_id>
+	<language>en</language>
+	<name>High School</name>
+	<abreviation></abreviation>
+</RECORD>
+<RECORD>
+	<education_degree_id>2</education_degree_id>
+	<language>en</language>
+	<name>Associate’s Degree</name>
+	<abreviation></abreviation>
+</RECORD>
+<RECORD>
+	<education_degree_id>3</education_degree_id>
+	<language>en</language>
+	<name>Bachelor’s Degree</name>
+	<abreviation></abreviation>
+</RECORD>
+<RECORD>
+	<education_degree_id>4</education_degree_id>
+	<language>en</language>
+	<name>Master’s Degree</name>
+	<abreviation></abreviation>
+</RECORD>
+<RECORD>
+	<education_degree_id>5</education_degree_id>
+	<language>en</language>
+	<name>Master of Business Administration </name>
+	<abreviation>(M.B.A.)</abreviation>
+</RECORD>
+<RECORD>
+	<education_degree_id>6</education_degree_id>
+	<language>en</language>
+	<name>Juris Doctor </name>
+	<abreviation>(J.D.)</abreviation>
+</RECORD>
+<RECORD>
+	<education_degree_id>7</education_degree_id>
+	<language>en</language>
+	<name>Doctor of Medicine</name>
+	<abreviation>(M.D.)</abreviation>
+</RECORD>
+<RECORD>
+	<education_degree_id>8</education_degree_id>
+	<language>en</language>
+	<name>Doctor of Philosophy</name>
+	<abreviation>(Ph.D.)</abreviation>
+</RECORD>
+<RECORD>
+	<education_degree_id>9</education_degree_id>
+	<language>en</language>
+	<name>Engineer’s Degree</name>
+	<abreviation></abreviation>
+</RECORD>
+<RECORD>
+	<education_degree_id>10</education_degree_id>
+	<language>en</language>
+	<name>Other</name>
+	<abreviation></abreviation>
+</RECORD>
+<RECORD>
+	<education_degree_id>16</education_degree_id>
+	<language>en</language>
+	<name>College</name>
+	<abreviation></abreviation>
+</RECORD>
+</RECORDS>

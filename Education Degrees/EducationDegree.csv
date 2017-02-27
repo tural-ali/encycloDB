@@ -1,0 +1,12 @@
+education_degree_id,language,name,abreviation
+1,en,High School,
+2,en,Associate’s Degree,
+3,en,Bachelor’s Degree,
+4,en,Master’s Degree,
+5,en,Master of Business Administration ,(M.B.A.)
+6,en,Juris Doctor ,(J.D.)
+7,en,Doctor of Medicine,(M.D.)
+8,en,Doctor of Philosophy,(Ph.D.)
+9,en,Engineer’s Degree,
+10,en,Other,
+16,en,College,
