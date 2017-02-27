@@ -5,13 +5,13 @@
  Source Server Type    : MySQL
  Source Server Version : 50717
  Source Host           : 127.0.0.1
- Source Database       : Open DB
+ Source Database       : opendb
 
  Target Server Type    : MySQL
  Target Server Version : 50717
  File Encoding         : utf-8
 
- Date: 02/27/2017 15:42:21 PM
+ Date: 02/28/2017 00:14:30 AM
 */
 
 SET FOREIGN_KEY_CHECKS = 0;
@@ -21,16 +21,16 @@ SET FOREIGN_KEY_CHECKS = 0;
 -- ----------------------------
 DROP TABLE IF EXISTS `Country`;
 CREATE TABLE `Country` (
-  `id` bigint(20) NOT NULL,
+  `id` int(4) unsigned NOT NULL AUTO_INCREMENT,
   `code3` char(3) NOT NULL,
   `code2` char(2) NOT NULL,
-  `capital_city_id` bigint(20) DEFAULT NULL,
+  `capital_city_id` int(5) unsigned DEFAULT NULL,
   `flag_uri` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`id`),
   UNIQUE KEY `Country_id_key` (`id`),
   KEY `Country_capitalID_fkey` (`capital_city_id`),
-  CONSTRAINT `Country_capitalID_fkey` FOREIGN KEY (`capital_city_id`) REFERENCES `City` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+  CONSTRAINT `country_ibfk_1` FOREIGN KEY (`capital_city_id`) REFERENCES `City` (`id`) ON DELETE SET NULL ON UPDATE CASCADE
+) ENGINE=InnoDB AUTO_INCREMENT=246 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
 --  Records of `Country`
@@ -44,11 +44,11 @@ COMMIT;
 -- ----------------------------
 DROP TABLE IF EXISTS `CountryTranslation`;
 CREATE TABLE `CountryTranslation` (
-  `country_id` bigint(20) NOT NULL,
+  `country_id` int(4) unsigned NOT NULL,
   `language` varchar(5) NOT NULL,
   `name` varchar(52) NOT NULL,
   PRIMARY KEY (`country_id`,`language`),
-  CONSTRAINT `CountryTranslation_countryID_fkey` FOREIGN KEY (`country_id`) REFERENCES `Country` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+  CONSTRAINT `countrytranslation_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `Country` (`id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 -- ----------------------------
