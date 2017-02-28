@@ -58,3 +58,5 @@ Currently consists of 296 schools that located in Azerbaijan.
 **!Needs contribution** 
 - to add more schools and make database of all schoolse over the world
 - to check and fix any wrong information
+
+[![License](https://poser.pugx.org/turalus/opendb/license)](https://packagist.org/packages/turalus/opendb)
