@@ -1,8 +1,6 @@
 <img src="https://raw.githubusercontent.com/turalus/openDB/master/Logo/logo.png" width="250"/>
 
-#Welcome to openDB
-
-Open-source data repository for everything.
+#Open-source data repository for everything
 
 The main idea behind this project is - to create "swiss army knife" of data for large projects. 
 
@@ -17,6 +15,17 @@ List of 241 countries.
   
 ***Todos***
 - to add missing flags
+- to check translations
+- to add more languages
+
+#Cities
+List of 4088 cities
+  - Names are translated into 3 languages: English, Russian, Azerbaijani. 
+  - Organized by countries
+  - 189 linked city photos. 
+  
+***Todos***
+- to add more photos
 - to check translations
 - to add more languages
 
