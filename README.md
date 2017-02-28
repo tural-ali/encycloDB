@@ -14,7 +14,7 @@ List of 9498 Universities from all over the world.
   - 3072 of them has logo. 
   - organized by countries
   
-**!Needs contribution** 
+***Todos***
 - to add missing logos
 - to check translations
 - to add more languages
@@ -26,7 +26,7 @@ List of 1602 football clubs from all over the world.
  - organized by countries
  - all of them has logo
  
-**!Needs contribution** 
+***Todos*** 
 - to check logos if they're current
 - to add more clubs
 - to check and fix any wrong information
@@ -35,7 +35,7 @@ List of 1602 football clubs from all over the world.
 List of 81 industries.
   - Translated into 3 languages: English, Russian, Azerbaijani. 
   
-**!Needs contribution** 
+***Todos***
 - to check translations
 - to add more languages
 - to add more industries
@@ -45,18 +45,23 @@ List of 81 industries.
 List of 75 professions based on parent-child structure.
   - Translated into 3 languages: English, Russian, Azerbaijani. 
   
-**!Needs contribution** 
+***Todos***
 - to check translations
 - to add more languages
 - to add more professions
 - to check and fix any wrong information
 
+#Education degrees
+List of 11 education degrees with abreviations in English.
+
+***Todos***
+ - to add more languages
+ - to check and fix any wrong information
+ 
 #Schools
 Currently consists of 296 schools that located in Azerbaijan. 
 - organized by countries
 
-**!Needs contribution** 
+***Todos*** 
 - to add more schools and make database of all schoolse over the world
 - to check and fix any wrong information
-
-[![License](https://poser.pugx.org/turalus/opendb/license)](https://packagist.org/packages/turalus/opendb)
