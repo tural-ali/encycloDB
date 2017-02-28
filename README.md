@@ -1,12 +1,24 @@
+<img src="https://raw.githubusercontent.com/turalus/openDB/master/Logo/logo.png" width="250"/>
+
 #Welcome to openDB
 
 Open-source data repository for everything.
 
 The main idea behind this project is - to create "swiss army knife" of data for large projects. 
 
-Even smallest contribution will be priceless for this project's growth. So please, don't hesitate to actively take part in development process!
+Even smallest contribution will be priceless for this project's growth. So please, don't hesitate to actively take part in development process, to check and fix any wrong information!
 
 Here is the list of data that repository consists of:
+
+#Countries
+List of 241 countries. 
+  - Names are translated into 3 languages: English, Russian, Azerbaijani. 
+  - 200 flags images. 
+  
+***Todos***
+- to add missing flags
+- to check translations
+- to add more languages
 
 #Universities
 List of 9498 Universities from all over the world. 
@@ -19,7 +31,6 @@ List of 9498 Universities from all over the world.
 - to check translations
 - to add more languages
 - to add more universities
-- to check and fix any wrong information
  
 #Football Clubs
 List of 1602 football clubs from all over the world. 
@@ -29,7 +40,6 @@ List of 1602 football clubs from all over the world.
 ***Todos*** 
 - to check logos if they're current
 - to add more clubs
-- to check and fix any wrong information
 
 #Industries
 List of 81 industries.
@@ -39,7 +49,6 @@ List of 81 industries.
 - to check translations
 - to add more languages
 - to add more industries
-- to check and fix any wrong information
 
 #Professions
 List of 75 professions based on parent-child structure.
@@ -49,14 +58,12 @@ List of 75 professions based on parent-child structure.
 - to check translations
 - to add more languages
 - to add more professions
-- to check and fix any wrong information
 
 #Education degrees
 List of 11 education degrees with abreviations in English.
 
 ***Todos***
  - to add more languages
- - to check and fix any wrong information
  
 #Schools
 Currently consists of 296 schools that located in Azerbaijan. 
@@ -64,7 +71,6 @@ Currently consists of 296 schools that located in Azerbaijan.
 
 ***Todos*** 
 - to add more schools and make database of all schools over the world
-- to check and fix any wrong information
 
 #Bad words
 Currently consists of 77 censored/dirty words in English. 
@@ -72,7 +78,6 @@ Currently consists of 77 censored/dirty words in English.
 ***Todos*** 
  - to add more languages
  - to add more words
- - to check and fix any wrong information
 
 #Currencies
 Currently consists of 156 currencies from almost every country. Names are in English
@@ -80,4 +85,3 @@ Currently consists of 156 currencies from almost every country. Names are in Eng
 
 ***Todos*** 
  - to add more languages
- - to check and fix any wrong information
