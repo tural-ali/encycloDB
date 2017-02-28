@@ -63,5 +63,21 @@ Currently consists of 296 schools that located in Azerbaijan.
 - organized by countries
 
 ***Todos*** 
-- to add more schools and make database of all schoolse over the world
+- to add more schools and make database of all schools over the world
 - to check and fix any wrong information
+
+#Bad words
+Currently consists of 77 censored/dirty words in English. 
+
+***Todos*** 
+ - to add more languages
+ - to add more words
+ - to check and fix any wrong information
+
+#Currencies
+Currently consists of 156 currencies from almost every country. Names are in English
+- organized by countries
+
+***Todos*** 
+ - to add more languages
+ - to check and fix any wrong information
