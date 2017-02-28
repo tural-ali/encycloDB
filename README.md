@@ -6,6 +6,8 @@ The main idea behind this project is - to create "swiss army knife" of data for 
 
 Even smallest contribution will be priceless for this project's growth. So please, don't hesitate to actively take part in development process, to check and fix any wrong information!
 
+Additionally, for contributors I added, whole database's dump where all tables connected to each other with foreign keys. That makes possible to see whole scene and work efficiently.
+
 Here is the list of data that repository consists of:
 
 #Countries
@@ -106,6 +108,4 @@ Currently consists of 156 currencies from almost every country. Names are in Eng
 ***Todos*** 
  - to add more languages
  
-Additionally, for contributors I added, whole database's dump where all tables connected to each other with foreign keys. That makes possible to see whole scene and work efficiently.
- 
- Good coding!
+Good coding!
