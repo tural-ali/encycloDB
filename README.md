@@ -29,10 +29,21 @@ List of 4088 cities
 - to check translations
 - to add more languages
 
+#Companies
+List of 2002 worldwide companies
+  - Information is mainly on English but structure is open for translation. 
+  - Organized by countries
+  - All of them have logos. 
+  
+***Todos***
+- to add more companies
+- to check translations and information
+- to add more languages
+
 #Universities
 List of 9498 Universities from all over the world. 
   - translated into 3 languages: English, Russian, Azerbaijani. 
-  - 3072 of them has logo. 
+  - 3072 of them have logos. 
   - organized by countries
   
 ***Todos***
@@ -44,7 +55,7 @@ List of 9498 Universities from all over the world.
 #Football Clubs
 List of 1602 football clubs from all over the world. 
  - organized by countries
- - all of them has logo
+ - all of them have logos
  
 ***Todos*** 
 - to check logos if they're current
