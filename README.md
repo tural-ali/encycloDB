@@ -106,6 +106,6 @@ Currently consists of 156 currencies from almost every country. Names are in Eng
 ***Todos*** 
  - to add more languages
  
- Additionally, for contributors I added, whole database's dump where all tables connected to each other with foreign keys. That makes possible to see whole scene and work efficiently.
+Additionally, for contributors I added, whole database's dump where all tables connected to each other with foreign keys. That makes possible to see whole scene and work efficiently.
  
  Good coding!
