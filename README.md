@@ -8,7 +8,7 @@ Even smallest contribution will be priceless for this project's growth. So pleas
 
 Additionally, for contributors I added, whole database's dump where all tables connected to each other with foreign keys. That makes possible to see whole scene and work efficiently.
 
-[Contributors](CONTRIBUTORS.md)
+[Contributors](contrib.md)
 
 Here is the list of data that repository consists of:
 
