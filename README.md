@@ -97,7 +97,7 @@ Currently consists of 296 schools that located in Azerbaijan.
 - to add more schools and make database of all schools over the world
 
 #Bad words
-Currently consists of 77 censored/dirty words in English. 
+Currently consists of 2200 censored/dirty words in en, ar, cs, da, de, eo, es, fa, fi, fr, hi, hu, it, ja, ko, nl, no, pl, pt, ru, sv, th, tlh, tr, zh. 
 
 ***Todos*** 
  - to add more languages
