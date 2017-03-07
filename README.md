@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/turalus/openDB/master/Logo/logo.png" width="250"/>
+<img src="https://raw.githubusercontent.com/turalus/openDB/master/_Design Elements/logo.png" width="250"/>
 
 #Open-source data repository for everything
 
