@@ -1,39 +1,22 @@
 /*
- Navicat MySQL Data Transfer
+Navicat MySQL Data Transfer
 
- Source Server         : local
- Source Server Type    : MySQL
- Source Server Version : 50717
- Source Host           : 127.0.0.1
- Source Database       : opendb
+Source Server         : raspberry
+Source Server Version : 50554
+Source Host           : localhost:3306
+Source Database       : data_kit
 
- Target Server Type    : MySQL
- Target Server Version : 50717
- File Encoding         : utf-8
+Target Server Type    : MYSQL
+Target Server Version : 50554
+File Encoding         : 65001
 
- Date: 02/28/2017 00:14:58 AM
+Date: 2017-03-15 22:51:02
 */
 
-SET FOREIGN_KEY_CHECKS = 0;
+SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
---  Table structure for `EducationDegree`
--- ----------------------------
-DROP TABLE IF EXISTS `EducationDegree`;
-CREATE TABLE `EducationDegree` (
-  `id` int(10) unsigned NOT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-
--- ----------------------------
---  Records of `EducationDegree`
--- ----------------------------
-BEGIN;
-INSERT INTO `EducationDegree` VALUES ('1'), ('2'), ('3'), ('4'), ('5'), ('6'), ('7'), ('8'), ('9'), ('10'), ('16');
-COMMIT;
-
--- ----------------------------
---  Table structure for `EducationDegreeTranslation`
+-- Table structure for EducationDegreeTranslation
 -- ----------------------------
 DROP TABLE IF EXISTS `EducationDegreeTranslation`;
 CREATE TABLE `EducationDegreeTranslation` (
@@ -46,10 +29,50 @@ CREATE TABLE `EducationDegreeTranslation` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 -- ----------------------------
---  Records of `EducationDegreeTranslation`
+-- Records of EducationDegreeTranslation
 -- ----------------------------
-BEGIN;
-INSERT INTO `EducationDegreeTranslation` VALUES ('1', 'en', 'High School', ''), ('2', 'en', 'Associate’s Degree', ''), ('3', 'en', 'Bachelor’s Degree', ''), ('4', 'en', 'Master’s Degree', ''), ('5', 'en', 'Master of Business Administration ', '(M.B.A.)'), ('6', 'en', 'Juris Doctor ', '(J.D.)'), ('7', 'en', 'Doctor of Medicine', '(M.D.)'), ('8', 'en', 'Doctor of Philosophy', '(Ph.D.)'), ('9', 'en', 'Engineer’s Degree', ''), ('10', 'en', 'Other', ''), ('16', 'en', 'College', '');
-COMMIT;
-
-SET FOREIGN_KEY_CHECKS = 1;
+INSERT INTO `EducationDegreeTranslation` VALUES ('1', 'az', 'Ali məktəb', null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('1', 'en', 'High School', '');
+INSERT INTO `EducationDegreeTranslation` VALUES ('1', 'ru', 'Старшая школа', null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('1', 'tr', 'Lise', '');
+INSERT INTO `EducationDegreeTranslation` VALUES ('2', '', null, null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('2', 'az', 'Subbakalavr', null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('2', 'en', 'Associate’s Degree', '');
+INSERT INTO `EducationDegreeTranslation` VALUES ('2', 'tr', 'Önlisans', null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('3', '', null, null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('3', 'en', 'Bachelor’s Degree', '');
+INSERT INTO `EducationDegreeTranslation` VALUES ('3', 'ru', 'Степень бакалавра', null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('3', 'tr', 'Lisans', null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('4', '', null, null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('4', 'az', 'Maqistr dərəcəsi', null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('4', 'en', 'Master’s Degree', '');
+INSERT INTO `EducationDegreeTranslation` VALUES ('4', 'tr', 'Yüksek lisans', null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('5', '', null, null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('5', 'az', 'Biznesin İdarə Edilməsi', '(MBA)');
+INSERT INTO `EducationDegreeTranslation` VALUES ('5', 'en', 'Master of Business Administration ', '(M.B.A.)');
+INSERT INTO `EducationDegreeTranslation` VALUES ('5', 'tr', 'İşletme Yüksek Lisansı', null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('6', '', null, null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('6', 'az', 'Hüquq Doktoru', null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('6', 'en', 'Juris Doctor ', '(J.D.)');
+INSERT INTO `EducationDegreeTranslation` VALUES ('6', 'tr', 'Hukuk Doktoru', null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('7', '', null, null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('7', 'en', 'Doctor of Medicine', '(M.D.)');
+INSERT INTO `EducationDegreeTranslation` VALUES ('7', 'ru', 'Доктор медицины', null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('7', 'tr', 'Tıp doktoru', null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('8', '', null, null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('8', 'az', 'Fəlsəfə Doktoru', null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('8', 'en', 'Doctor of Philosophy', '(Ph.D.)');
+INSERT INTO `EducationDegreeTranslation` VALUES ('8', 'tr', 'Felsefe Doktoru', null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('9', '', null, null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('9', 'az', 'Mühəndis', null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('9', 'en', 'Engineer’s Degree', '');
+INSERT INTO `EducationDegreeTranslation` VALUES ('9', 'tr', 'Mühendislik Derecesi', null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('10', '', null, null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('10', 'az', 'Digər', null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('10', 'en', 'Other', '');
+INSERT INTO `EducationDegreeTranslation` VALUES ('10', 'tr', 'Diğer', null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('16', '', null, null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('16', 'az', 'Kollec', null);
+INSERT INTO `EducationDegreeTranslation` VALUES ('16', 'en', 'College', '');
+INSERT INTO `EducationDegreeTranslation` VALUES ('16', 'tr', 'Kolej', null);
+SET FOREIGN_KEY_CHECKS=1;
