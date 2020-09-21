@@ -12,7 +12,7 @@ Additionally, for contributors I added, whole database's dump where all tables c
 
 Here is the list of data that repository consists of:
 
-#Countries
+# Countries
 List of 241 countries. 
   - Names are translated into 3 languages: English, Russian, Azerbaijani. 
   - 200 flags images. 
@@ -22,7 +22,7 @@ List of 241 countries.
 - to check translations
 - to add more languages
 
-#Cities
+# Cities
 List of 4088 cities
   - Names are translated into 3 languages: English, Russian, Azerbaijani. 
   - Organized by countries
@@ -33,7 +33,7 @@ List of 4088 cities
 - to check translations
 - to add more languages
 
-#Companies
+# Companies
 List of 2002 worldwide companies
   - Information is mainly on English but structure is open for translation. 
   - Organized by countries
@@ -56,7 +56,7 @@ List of 9498 Universities from all over the world.
 - to add more languages
 - to add more universities
  
-#Football Clubs
+# Football Clubs
 List of 1602 football clubs from all over the world. 
  - organized by countries
  - all of them have logos
@@ -65,7 +65,7 @@ List of 1602 football clubs from all over the world.
 - to check logos if they're current
 - to add more clubs
 
-#Industries
+# Industries
 List of 81 industries.
   - Translated into 3 languages: English, Russian, Azerbaijani. 
   
@@ -83,27 +83,27 @@ List of 75 professions based on parent-child structure.
 - to add more languages
 - to add more professions
 
-#Education degrees
+# Education degrees
 List of 11 education degrees with abreviations in English.
 
 ***Todos***
  - to add more languages
  
-#Schools
+# Schools
 Currently consists of 296 schools that located in Azerbaijan. 
 - organized by countries
 
 ***Todos*** 
 - to add more schools and make database of all schools over the world
 
-#Bad words
+# Bad words
 Currently consists of 2200 censored/dirty words in en, ar, cs, da, de, eo, es, fa, fi, fr, hi, hu, it, ja, ko, nl, no, pl, pt, ru, sv, th, tlh, tr, zh. 
 
 ***Todos*** 
  - to add more languages
  - to add more words
 
-#Currencies
+# Currencies
 Currently consists of 156 currencies from almost every country. Names are in English
 - organized by countries
 
