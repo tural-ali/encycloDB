@@ -1,12 +1,15 @@
 <img src="https://raw.githubusercontent.com/turalus/openDB/master/_Design Elements/logo.png" width="250"/>
 
-#Open-source data repository for everything
 
-The main idea behind this project is - to create "swiss army knife" of data for large projects. 
+#Welcome to the open-source data repository for everything! 
 
-Even smallest contribution will be priceless for this project's growth. So please, don't hesitate to actively take part in development process, to check and fix any wrong information!
+Our project is dedicated to creating a "swiss army knife" of data for large projects. We believe that even the smallest contribution can be priceless for the growth of this project, and we encourage you to actively take part in the development process.
 
-Additionally, for contributors I added, whole database's dump where all tables connected to each other with foreign keys. That makes possible to see whole scene and work efficiently.
+We value the accuracy and integrity of our data, and we invite you to help us achieve this by checking and fixing any inaccuracies you may find. Your input is essential to ensuring that our repository is a trusted and reliable source of information.
+
+As a token of our appreciation, we have included a database dump for our contributors. This comprehensive resource allows you to view all tables connected to each other with foreign keys, giving you a better understanding of the entire database and helping you work more efficiently.
+
+Join us in our mission to create an open-source data repository for everything, where knowledge is easily accessible and shared among all. Together, we can make a difference in the world of data.
 
 [Contributors](contrib.md)
 
