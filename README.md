@@ -1,6 +1,3 @@
-<img src="https://raw.githubusercontent.com/turalus/openDB/maCancel changesster/_Design Elements/logo.png" width="250"/>
-
-
 # Welcome to the open-source data repository for everything! 
 
 Our project is dedicated to creating a "swiss army knife" of data for large projects. We believe that even the smallest contribution can be priceless for the growth of this project, and we encourage you to actively take part in the development process.
